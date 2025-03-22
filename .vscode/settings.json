@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3a35cff-3b28-4d98-b373-14a5742a15de/resourceGroups/botkan_group/providers/Microsoft.Web/sites/botkan",
+    "appService.deploySubpath": "."
+}
